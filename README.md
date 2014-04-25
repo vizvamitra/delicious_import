@@ -1,13 +1,13 @@
 delicious_import
 ================
 
-#### This script allow to import your bookmarks from html files to [Delicios.com](https://delicious.com)
+#### This script allows you to import your bookmarks from html files to [Delicios.com](https://delicious.com)
 
     delicious_import.py
 
 <a href="https://www.flickr.com/photos/dmgl/14005344475" title="delicious_import.py by Dmitry Milovidov, on Flickr"><img src="https://farm3.staticflickr.com/2933/14005344475_a7fd527890_o.png" width="762" height="327" alt="delicious_import.py"></a>
 
-It's a very slowly importer! Alternative method is to import by hand. Script use delicious.py client to make api requests. It doesn't work with json (interesting export from Firefox with tags) yet. Maybe, in future. If you know another solution to import links with tags to delicios or parse export file from Delicios and add into Firefox with tags, please, let me know.
+It's a very slow importer! Alternative method is to import by hand. Script use delicious.py client to make api requests. It doesn't work with json (interesting export from Firefox with tags) yet. Maybe, in future. If you know another solution to import links with tags to delicios or parse export file from Delicios and add into Firefox with tags, please, let me know.
 
 I found this repo ([chromalicious](https://github.com/mpenkov/chromalicious)) when already wrote my own.
 
